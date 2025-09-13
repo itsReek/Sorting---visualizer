@@ -1,9 +1,3 @@
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
 
 
 function Quick()
@@ -119,10 +113,3 @@ function quickSort(s, e)
     //     if(pivPos<e) quickSort(pivPos, e);
     // }
 }
-
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
