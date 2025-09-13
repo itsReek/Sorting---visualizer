@@ -1,9 +1,3 @@
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
 
 function Insertion()
 {
@@ -39,9 +33,3 @@ function Insertion()
     enable_buttons();
 }
 
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
