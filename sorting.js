@@ -1,9 +1,3 @@
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
 
 var delay_time = 1000/(Math.floor(ar_size/10));
 var c_delay = 0;
@@ -40,9 +34,3 @@ function enable_buttons()
     }, c_delay+=delay_time);
 }
 
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
