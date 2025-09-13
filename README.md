@@ -30,16 +30,4 @@ So decided to Create a web application using HTML, CSS, JavaScript to visualize 
 - JavaScript
 
 
-## Challenges I ran into
-
-- **Writing sort algorithms in JS :** I faced writing sort algorithms in JS as I was new to it. Usually to write some code or learn algorithms for solving coding problems,
-  I prefer C++/Java. Initially, I took more time to implement the first sort algorithm i.e., Bubble sort to perfectly work. After that, for the remaining algorithms, 
-  I took no time and implemented them so quickly one after the other. 
-
-- **Site responsiveness :** As a beginner the first challenge was to bring site responsiveness as I have to learn CSS from scratch (Still have some bugs).
-## Conclusion
-This was my first project which I was deploying the website live. This was a great learning experience for me creating a full application from scratch.
-Thanks to the Crio community for providing the amazing learning experience with #learnbydoing projects.
-
 ## Live Demo of project
-https://sorting-visualizer-navdeepkhede.netlify.app/
