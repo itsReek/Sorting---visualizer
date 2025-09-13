@@ -1,9 +1,4 @@
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
+
 
 function Bubble()
 {
@@ -36,9 +31,3 @@ function Bubble()
     enable_buttons();
 }
 
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
