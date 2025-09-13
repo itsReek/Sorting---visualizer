@@ -31,3 +31,4 @@ So decided to Create a web application using HTML, CSS, JavaScript to visualize 
 
 
 ## Live Demo of project
+https://sorting-visualizer-plum-delta.vercel.app/
