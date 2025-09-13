@@ -1,9 +1,4 @@
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
+
 
 var butts_algos = document.querySelectorAll(".algos button");
 var inp_as = document.getElementById("slider"), ar_size = inp_as.value;
@@ -77,9 +72,3 @@ function runalgo()
 
 
 
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
