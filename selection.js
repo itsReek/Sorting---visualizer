@@ -1,9 +1,3 @@
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
 
 function Selection()
 {
@@ -47,9 +41,3 @@ function Selection()
     enable_buttons();
 }
 
-/*
-    *****************************
-    DONE BY : NAVDEEP KHEDE
-    E-MAIL  : nayankhede@fmail.com
-    *****************************
-*/
